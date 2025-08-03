@@ -391,9 +391,25 @@ font-weight: 500;
 font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.02em;
-color: #F4F4FD;
+color: #FFFFFF;
 text-align: center;
 justify-content: center;
 margin-bottom: 16px;
+
+}
+.foot-container{
+    display: flex;
+    align-items: baseline;
+}
+.logo-foot-part{
+    margin-right: 120px;
+}
+.link-foot-icons{
+    display: flex;
+    gap: 16px;
+}
+.foot-icons-list{
+    width: 40px;
+    height: 40px;
 }
 
