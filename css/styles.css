@@ -386,4 +386,14 @@ color: #434455;
     color: #F4F4FD;
     max-width: 264px;
 }
+.foot-link{
+font-weight: 500;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
+color: #F4F4FD;
+text-align: center;
+justify-content: center;
+margin-bottom: 16px;
+}
 
