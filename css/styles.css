@@ -316,9 +316,11 @@ color: #434455;
     justify-content: center;
 }
 .team-icons:hover,
-.team-icons:focus{
+.team-icons:focus {
     background-color: #404bbf;
-
+}
+.svg-team{
+    fill: #F4F4FD;
 }
 /* Portfolio */
 .portfolio{
