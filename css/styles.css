@@ -297,6 +297,15 @@ color: #434455;
     text-align: center;
     color:#434455;
 }
+.link-team-icons{
+    display: flex;
+    justify-content: center;
+    gap: 24px;
+}
+.team-icons-list{
+    width: 40px;
+    height: 40px;
+}
 /* Portfolio */
 .portfolio{
     font-weight: 700;
