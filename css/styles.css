@@ -209,6 +209,10 @@ overflow: hidden;
 .strategy-li{
     width: calc((100% - 72px) / 4); 
 }
+.svg-strategy{
+    width: 64px;
+    height: 64px;
+}
 .icons-strategy{
     display: flex;
     align-items: center;
